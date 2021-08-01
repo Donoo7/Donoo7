@@ -1,9 +1,41 @@
-### Hi there 👋
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">    
+<a href="">
+  <img align="left" alt="Sudhanshu's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/">
+  <img align="left" alt="SudhanshuMishra | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sudhanshu-mishra-34a429166/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br>
 
+
+```javascript
+const donOO7 = {
+  name: "Sudhanshu Mishra",
+  institute: "Indian Institute of Information Technology Vadodara(2018-22)", 
+  code: [Javascript, C, C++, HTML, CSS],
+  tools: [React, Redux, Node, Express],
+  db:[MYSQL, mongoDB]
+  extras: {
+                        cricket: ["Right arm medium fast","Slogger batsman"],
+                        gaming: ["BGMI mobile","Rocket League","Valorant","CS-GO","Krunker","other offline games"],
+                        hobby: ["competitive programming"]
+                      },
+ work: "I am currently learnign and building web"
+}
+```
+
+
+
+
+
+<!-- 
 ### This is Sudhanshu Mishra 😎, 3rd year undergraduate at IIIT Vadodara 💻...
 😃 I am a frontend developer, learning to be a full stack dev ✔. </br> 
 🎁 I use Javascript for web and C++ for Competitive Programming. </br> 
-🎮 Other than Programming , I like to play PC and mobile games, and Cricket too 🏏
+🎮 Other than Programming , I like to play PC and mobile games, and Cricket too 🏏 -->
                                                                                                                                                                     
 <!-- ![Sudhanshu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=donOO7&theme=synthwave&show_icons=true&count_private=true “Sudhanshu’s GitHub Stats”)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donOO7&theme=synthwave “Sudhanshu’s Top Languages Card”)
@@ -17,6 +49,11 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=donOO7&show_icons=true&theme=gotham" alt="donOO7" />
+
+<a href="https://github.com/donOO7/donOO7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donOO7&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=donOO7&show_icons=true&theme=gotham" alt="donOO7" />
 
 
