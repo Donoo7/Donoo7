@@ -12,7 +12,7 @@
 
 
 ```javascript
-const donOO7 = {
+var donOO7 = {
   name: "Sudhanshu Mishra",
   institute: "Indian Institute of Information Technology Vadodara(2018-22)", 
   code: [Javascript, C, C++, HTML, CSS],
@@ -23,7 +23,7 @@ const donOO7 = {
                         gaming: ["BGMI mobile","Rocket League","Valorant","CS-GO","Krunker","other offline games"],
                         hobby: ["competitive programming"]
                       },
- work: "I am currently learnign and building web"
+ work: "I am currently learnign and building web and gaining a little knowledge about ethereum works"
 }
 ```
 
