@@ -12,7 +12,7 @@
 
 
 ```javascript
-var donOO7 = {
+const donOO7 = {
   name: "Sudhanshu Mishra",
   institute: "Indian Institute of Information Technology Vadodara(2018-22)", 
   code: [Javascript, C, C++, HTML, CSS],
