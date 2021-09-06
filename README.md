@@ -15,9 +15,10 @@
 const donOO7 = {
   name: "Sudhanshu Mishra",
   institute: "Indian Institute of Information Technology Vadodara(2018-22)", 
-  code: [Javascript, C, C++, HTML, CSS],
-  tools: [React, Redux, Node, Express],
-  db:[MYSQL, mongoDB]
+  code: [Javascript, C, C++, Solidity, Java],
+  tools: [React, Redux, Node, Express, web3JS],
+  db: [MYSQL, mongoDB],
+  editors: [VSCode, Atom],
   extras: {
                         cricket: ["Right arm medium fast","Slogger batsman"],
                         gaming: ["BGMI mobile","Rocket League","Valorant","CS-GO","Krunker","other offline games"],
