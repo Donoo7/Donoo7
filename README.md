@@ -24,7 +24,7 @@ const donOO7 = {
                         gaming: ["BGMI mobile","Rocket League","Valorant","CS-GO","Krunker","other offline games"],
                         hobby: ["competitive programming"]
                       },
- work: "I am currently learnign and building web and gaining a little knowledge about ethereum works"
+ work: "I am currently learnign and building web and gaining a little knowledge about how ethereum works"
 }
 ```
 
