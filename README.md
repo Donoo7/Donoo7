@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">    
+### hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">    
 <a href="https://discordapp.com/users/don007#0642/">
   <img align="left" alt="Sudhanshu's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -15,16 +15,14 @@
 const donOO7 = {
   name: "Sudhanshu Mishra",
   institute: "Indian Institute of Information Technology Vadodara(2018-22)", 
-  code: [Javascript, C, C++, Solidity, Java],
-  tools: [React, Redux, Node, Express, web3JS],
-  db: [MYSQL, mongoDB],
+  code: [Javascript, C, C++, Solidity, Java, Spring Boot],
+  tools: [React, Redux, Node, Express],
+  db: [MYSQL, mongoDB, postgreSQL],
   editors: [VSCode, Atom],
   extras: {
-                        cricket: ["Right arm medium fast","Slogger batsman"],
-                        gaming: ["BGMI mobile","Rocket League","Valorant","CS-GO","Krunker","other offline games"],
-                        hobby: ["competitive programming"]
-                      },
- work: "I am currently learnign and building web and gaining a little knowledge about how ethereum works"
+                        sports: ["Cricket, basketball],
+                        gaming: ["BGMI mobile","Rocket League","Valorant","CODs","CS-GO","Krunker"],
+                      }
 }
 ```
 
