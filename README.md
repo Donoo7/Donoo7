@@ -1,51 +1,11 @@
-### hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">    
+Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> 
 
-</a>
-<br>
+---
 
+I'm Sudhanshu Mishra, a 2022 graduate from IIITV. Currently, I'm working as a Full Stack Developer at [Solis.io](https://www.solis.io), where I've been contributing to the building and enhancement of [Solis.market](https://www.solis.market).
 
-```javascript
-const donOO7 = {
-  name: "Sudhanshu Mishra",
-  institute: "Indian Institute of Information Technology Vadodara(2018-22)", 
-  code: [Javascript, C, C++, Solidity, Java, Spring Boot],
-  tools: [React, Redux, Node, Express],
-  db: [MYSQL, mongoDB, postgreSQL],
-  editors: [VSCode, Atom],
-  extras: {
-                        sports: ["Cricket, basketball],
-                        gaming: ["BGMI mobile","Rocket League","Valorant","CODs","CS-GO","Krunker"],
-                      }
-}
-```
+My expertise lies in using React and Ethers.js. Additionally, I have a wealth of experience working with Node.js and Solidity. Being in the tech industry has enabled me to refine my skills and consistently acquire new ones, ensuring that I remain at the forefront of my field.
 
+Away from coding, I often immerse myself in competitive PC and mobile games, or you'll find me out on the cricket field.
 
-
-
-
-<!-- 
-### This is Sudhanshu Mishra 😎, 3rd year undergraduate at IIIT Vadodara 💻...
-😃 I am a frontend developer, learning to be a full stack dev ✔. </br> 
-🎁 I use Javascript for web and C++ for Competitive Programming. </br> 
-🎮 Other than Programming , I like to play PC and mobile games, and Cricket too 🏏 -->
-                                                                                                                                                                    
-<!-- ![Sudhanshu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=donOO7&theme=synthwave&show_icons=true&count_private=true “Sudhanshu’s GitHub Stats”)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donOO7&theme=synthwave “Sudhanshu’s Top Languages Card”)
-
-<a href=”https://www.linkedin.com/in/sudhanshu-mishra-34a429166/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> 
-                                                                 
-                                                                 
-<a href=”https://www.instagram.com/smishra007123/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a> -->
-
-
-
-📈 my github stats
-
-
-<a href="https://github.com/donOO7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donOO7&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
- <img src="https://github-readme-stats.vercel.app/api?username=donOO7&show_icons=true&theme=gotham" alt="donOO7" />
-
-
+As I continue my journey in the tech world, I'm eager to explore new technologies and expand my horizons. 
